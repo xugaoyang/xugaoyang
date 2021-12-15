@@ -1,10 +1,10 @@
 <img align="right" width="40%" height="260px" src="https://github.com/xugaoyang/xugaoyang/blob/main/code.gif">
 
-I'm a web developer from China
+I'm a front-end development engineer from Shenzhen, in China
 
 **About me**
 
-- 🔭 I’m currently working on vue3 admin system
+- 🔭 I’m currently working on vue3 admin system && micro front-end
 - 🚀 I’m currently using:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=plastic&logo=javascript)
   ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=plastic&logo=github)
@@ -13,6 +13,7 @@ I'm a web developer from China
   ![CSS3](https://img.shields.io/badge/-Css3-lightgrey?style=plastic&logo=css3)
   ![SASS](https://img.shields.io/badge/-Sass-lightgrey?style=plastic&logo=sass)
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey?style=plastic&logo=vue.js)
+  ![qiankun](https://img.shields.io/badge/-Qiankun-lightgrey?style=plastic&logo=FrontendMentor)
 - 🌱 I’m currently learning:
   ![Typescript](https://img.shields.io/badge/-Typescript-lightgrey?style=plastic&logo=typescript)
   ![Vite](https://img.shields.io/badge/-Vite-lightgrey?style=plastic&logo=vite)
