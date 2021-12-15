@@ -14,16 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=xugaoyang&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xugaoyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xugaoyang&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xugaoyang&show_icons=true&theme=buefy" alt="Yann's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xugaoyang&layout=compact" />
 </a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xugaoyang&show_icons=true&theme=buefy" alt="Yann's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xugaoyang&layout=compact" /></a> |
-| ------------- | ------------- |
+
