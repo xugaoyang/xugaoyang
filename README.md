@@ -9,7 +9,7 @@ I'm a web developer from China
   ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=plastic&logo=javascript)
   ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=plastic&logo=github)
   ![Git](https://img.shields.io/badge/-Git-lightgrey?style=plastic&logo=git)
-  ![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=plastic&logo=html5&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=plastic&logo=html5)
   ![CSS3](https://img.shields.io/badge/-Css3-lightgrey?style=plastic&logo=css3)
   ![SASS](https://img.shields.io/badge/-Sass-lightgrey?style=plastic&logo=sass)
   ![Vue](https://img.shields.io/badge/-Vue-lightgrey?style=plastic&logo=vue.js)
