@@ -6,15 +6,18 @@ I'm a web developer from China
 
 - 🔭 I’m currently working on vue3 admin system
 - 🚀 I’m currently using:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-Css3-1572B6?style=plastic&logo=css3)
-  ![SASS](https://img.shields.io/badge/-Sass-1572B6?style=plastic&logo=sass)
-  ![Vue](https://img.shields.io/badge/-Vue-1572B6?style=plastic&logo=vuejs)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=plastic&logo=javascript)
+  ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=plastic&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-lightgrey?style=plastic&logo=git)
+  ![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-Css3-lightgrey?style=plastic&logo=css3)
+  ![SASS](https://img.shields.io/badge/-Sass-lightgrey?style=plastic&logo=sass)
+  ![Vue](https://img.shields.io/badge/-Vue-lightgrey?style=plastic&logo=vue.js)
 - 🌱 I’m currently learning:
-  ![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=plastic&logo=typescript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-lightgrey?style=plastic&logo=typescript)
+  ![Vite](https://img.shields.io/badge/-Vite-lightgrey?style=plastic&logo=vite)
+  ![Webpack](https://img.shields.io/badge/-Webpack-lightgrey?style=plastic&logo=webpack)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-lightgrey?style=plastic&logo=node.js)
 - 💬 Ask me about anything [here](https://yann_xu@outlook.com)
 - ❤️ Like e-games and sports.
 
