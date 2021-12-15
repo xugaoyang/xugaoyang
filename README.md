@@ -1,4 +1,4 @@
-<img align="right" width="40%" height="260px" src="https://github.com/Songjunweiop/Songjunweiop/blob/main/code.gif">
+<img align="right" width="40%" height="260px" src="https://github.com/xugaoyang/xugaoyang/blob/main/code.gif">
 
 I'm a web developer from China
 
@@ -20,4 +20,4 @@ I'm a web developer from China
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xugaoyang&show_icons=true&theme=buefy&hide_border=true" alt="Yann's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xugaoyang&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
-<img src="https://github.com/Songjunweiop/Songjunweiop/blob/main/github.png" />
+<img src="https://github.com/xugaoyang/xugaoyang/blob/main/github.png" />
