@@ -18,6 +18,8 @@ I'm a web developer from China
   ![Vite](https://img.shields.io/badge/-Vite-lightgrey?style=plastic&logo=vite)
   ![Webpack](https://img.shields.io/badge/-Webpack-lightgrey?style=plastic&logo=webpack)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-lightgrey?style=plastic&logo=node.js)
+  ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=plastic&logo=linux)
+  ![Docker](https://img.shields.io/badge/-Docker-lightgrey?style=plastic&logo=docker)
 - 🏗️ Preparing for PMP examination
 - 💬 Ask me about anything [here](https://yann_xu@outlook.com)
 - ❤️ Like e-games and sports.
