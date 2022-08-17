@@ -21,7 +21,7 @@ I'm a front-end development engineer from Shenzhen, in China
   ![Nestjs](https://img.shields.io/badge/-Nestjs-lightgrey?style=plastic&logo=nestjs&logoColor=E0234E)
   ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=plastic&logo=linux)
   ![Docker](https://img.shields.io/badge/-Docker-lightgrey?style=plastic&logo=docker)
-- 🏗️ Preparing for PMP examination
+- ✅ Get PMP Certification
 - 💬 Ask me about anything [here](https://yann_xu@outlook.com)
 - ❤️ Like e-games and sports.
 
