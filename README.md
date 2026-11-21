@@ -6,7 +6,7 @@
 <!-- ====== 打字机效果 ====== -->
 <p align="center">
   <a href="https://github.com/xugaoyang">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=%F0%9F%A4%96+Building+AI-native+Web+Apps;%E2%9A%A1+Vue3+%2F+React+%2F+Micro+Frontend;%F0%9F%A7%A0+LLM+%C2%B7+Agent+%C2%B7+RAG+%C2%B7+MCP;%F0%9F%9A%80+Prompt+in%2C+Product+out." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=%F0%9F%A4%96+Building+AI-native+Web+Apps;%E2%9A%A1+Vue3+%2F+React+%2F+TypeScript;%F0%9F%A7%A0+LLM+%C2%B7+Agent+%C2%B7+RAG+%C2%B7+MCP;%F0%9F%9A%80+Prompt+in%2C+Product+out." alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 const yann = {
   role: "Frontend Engineer → AI Application Engineer",
   location: "Shenzhen, China 🇨🇳",
-  working_on: ["Vue3 Admin System", "Micro Frontend (Qiankun)", "AI-powered Web Apps"],
+  working_on: ["AI-powered Web Apps", "LLM Chat & Agent UI", "AI-assisted Dev Workflow"],
   exploring: ["LLM Apps", "AI Agents", "RAG", "MCP", "Prompt Engineering"],
   daily_copilots: ["Claude Code", "Cursor", "GitHub Copilot"],
   certification: "PMP ✅",
@@ -56,7 +56,7 @@ const yann = {
 
 ### 🔭 Currently
 
-- 🚧 Building a **Vue3 admin system** with **micro front-end** architecture
+- 🚧 Building **AI-powered web apps** with Vue3 / React + LLM APIs
 - 🧠 Integrating **LLM / Agent** capabilities into front-end products (chat UI, streaming, tool calling)
 - 🌱 Learning **TypeScript · NestJS · Docker · Linux**, and diving into **RAG & MCP**
 - 💬 Ask me about anything [here](https://github.com/xugaoyang/xugaoyang/issues)
